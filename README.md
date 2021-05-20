@@ -28,6 +28,12 @@
 
 ### 베이스 저장소에서 수정사항 가져오기
 
+#### 깃허브 데스크톱 등에서
   1. (깃허브데스크톱 등에서) upstream/main 브랜치를 찾는다
-  2. upstream/main 브랜치를 자신의 main 브랜치와 병합한다(Choose a branch to merge into ~~ 클릭)
+  2. 3. upstream/main 브랜치를 자신의 main 브랜치와 병합한다(Choose a branch to merge into ~~ 클릭)
+
+#### 콘솔에서
+
+  1. (콘솔에서) git remote add upstream 베이스저장소URL주소 
+  2. git pull upstream main으로 동기화 한다
 
