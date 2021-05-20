@@ -8,7 +8,7 @@ Narastro ( github : https://github.com/Narastro )
 
 ### 1. 저장소 복사하기
 
-(1) 오른쪽 상단의 Fork 버튼을 누른다
+<1> 오른쪽 상단의 Fork 버튼을 누른다
 (2) Clone repository를 이용해 로컬에 복사한다
 
 ### 2. 수정사항 반영하기
