@@ -8,7 +8,6 @@ Narastro ( github : https://github.com/Narastro )
 
 ## 알고리즘 스터디 깃허브 사용법
 
--------------------
 ### 저장소 복사하기
 
   1. 오른쪽 상단의 Fork 버튼을 누른다
