@@ -1,10 +1,12 @@
 # Algorithm-Study
 
+## 주차별 문제목록 ( waiting... )
+
 ## 인천 알고리즘 스터디 참여자
 
 - Narastro ( github : https://github.com/Narastro )
--
--
+- meme2367 ( github : https://github.com/meme2367 )
+- youmn327 (github : https://github.com/youmn327 )
 
 
 
@@ -30,7 +32,7 @@
 
 #### 깃허브 데스크톱 등에서
   1. (깃허브데스크톱 등에서) upstream/main 브랜치를 찾는다
-  2. 3. upstream/main 브랜치를 자신의 main 브랜치와 병합한다(Choose a branch to merge into ~~ 클릭)
+  2. upstream/main 브랜치를 자신의 main 브랜치와 병합한다(Choose a branch to merge into ~~ 클릭)
 
 #### 콘솔에서
 
