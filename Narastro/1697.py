@@ -29,6 +29,6 @@ def bfs(N,K):
                     Q.append(next_v)
 
 print(bfs(N,K))
-
+# 테스트
 
 
