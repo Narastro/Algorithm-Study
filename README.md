@@ -4,7 +4,7 @@
 
 ## 👋 인천 알고리즘 스터디 참여자
 
-- Narastro ( github : https://github.com/Narastro )
+- han_astro ( github : https://github.com/Narastro )
 - meme2367 ( github : https://github.com/meme2367 )
 - youmn327 (github : https://github.com/youmn327 )
 
