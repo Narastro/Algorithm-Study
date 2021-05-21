@@ -1,8 +1,8 @@
 # Algorithm-Study
 
-## 주차별 문제목록 ( waiting... )
+## 🚀 주차별 문제목록 ( waiting... )
 
-## 인천 알고리즘 스터디 참여자
+## 👋 인천 알고리즘 스터디 참여자
 
 - Narastro ( github : https://github.com/Narastro )
 - meme2367 ( github : https://github.com/meme2367 )
@@ -10,12 +10,12 @@
 
 
 
-## 알고리즘 스터디 깃허브 사용법
+## 🎈 알고리즘 스터디 깃허브 사용법
 
 ### 저장소 복사하기
 
-  1. 오른쪽 상단의 Fork 버튼을 누른다
-  2. Clone repository를 이용해 로컬에 복사한다 ( 콘솔에서는 git clone URL주소 폴더명(생략가능) )
+ > 1. 오른쪽 상단의 Fork 버튼을 누른다
+ > 2. Clone repository를 이용해 로컬에 복사한다 ( 콘솔에서는 git clone URL주소 폴더명(생략가능) )
 
 -------------------
 
